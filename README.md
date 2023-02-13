@@ -24,6 +24,11 @@ install prompt
 brew install starship
 ```
 
+install exa
+``` bash
+brew install exa
+```
+
 link dotfiles
 ``` bash
 source bootstrap.sh
