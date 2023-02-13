@@ -1,0 +1,4 @@
+[nodejs]
+format = '[$symbol($version )]($style)'
+version_format = '${raw}'
+detect_extensions	= ['js', 'jsx', 'mjs', 'cjs', 'ts', 'tsx', 'mts', 'cts']

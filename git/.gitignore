@@ -1,0 +1,22 @@
+# OS or Editor files
+._*
+.DS_Store
+Thumbs.db
+
+# vscode
+.vscode
+
+# npm packages
+node_modules
+
+# Always-ignore extensions
+*~
+*.diff
+*.err
+*.log
+*.orig
+*.pyc
+*.rej
+*.sass-cache
+*.sw?
+*.vi

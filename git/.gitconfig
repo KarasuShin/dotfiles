@@ -1,0 +1,20 @@
+[user]
+	name = Karasu Shin
+	email =	karasu.shing@gmail.com
+
+[core]
+	autocrlf = input
+	excludesfile = /Users/karasushin/.gitignore
+
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	process = git-lfs filter-process
+
+[push]
+	default = current
+	autoSetupRemote = true
+
+[commit]
+	template = /Users/karasushin/.stCommitMsg

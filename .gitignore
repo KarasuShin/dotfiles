@@ -1,6 +1,0 @@
-.DS_Store
-
-nvim/packer.nvim
-nvim/plugin
-
-fish/fish_variables
