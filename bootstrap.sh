@@ -12,3 +12,6 @@ ln -sf "$cwd/starship/starship.toml" ~/.config/starship.toml
 ln -sf "$cwd/git/.gitconfig" ~/.gitconfig
 ln -sf "$cwd/git/.gitignore" ~/.gitignore
 ln -sf "$cwd/git/.gitattributes" ~/.gitattributes
+
+
+ln -sf "$cwd/karabiner/karabiner.json" ~/.config/karabiner/karabiner.json
