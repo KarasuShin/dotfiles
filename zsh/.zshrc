@@ -1,5 +1,5 @@
 # disable homebrew auto update
-export HOMEBREW_NO_AUTO_UPDSATE=1
+export HOMEBREW_NO_AUTO_UPDATE=1
 export ZSH="$HOME/.oh-my-zsh"
 
 # clash proxy
