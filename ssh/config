@@ -1,0 +1,21 @@
+Host github.com
+	HostName github.com
+	AddKeysToAgent yes
+	UseKeychain yes
+	IdentitiesOnly yes
+	IdentityFile ~/.ssh/github
+
+Host gitlab.com
+	HostName 172.16.1.202
+	AddKeysToAgent yes
+	UseKeychain yes
+	IdentitiesOnly yes
+	IdentityFile ~/.ssh/sk
+
+Host karasu.moe
+	User root
+	HostName 43.155.109.83
+	AddKeysToAgent yes
+	UseKeychain yes
+	IdentitiesOnly yes
+	IdentityFile ~/.ssh/karasu.moe

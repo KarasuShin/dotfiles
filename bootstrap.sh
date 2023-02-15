@@ -13,5 +13,8 @@ ln -sf "$cwd/git/.gitconfig" ~/.gitconfig
 ln -sf "$cwd/git/.gitignore" ~/.gitignore
 ln -sf "$cwd/git/.gitattributes" ~/.gitattributes
 
+# ssh
+ln -sf "$cwd/ssh/config" ~/.ssh/config
 
+# karabiner
 ln -sf "$cwd/karabiner/karabiner.json" ~/.config/karabiner/karabiner.json
