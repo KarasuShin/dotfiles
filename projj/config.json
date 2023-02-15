@@ -1,0 +1,22 @@
+{
+  "base": [
+    "/Users/karasushin/Documents/Code"
+  ],
+  "hooks": {
+    "postadd": "projj_git_config_user"
+  },
+  "postadd": {
+    "github.com": {
+      "name": "Karasu Shin",
+      "email": "karasu.shing@gmail.com"
+    },
+    "gitlab.com": {
+      "name": "Karasu Shin",
+      "email": "karasu.shing@gmail.com"
+    }
+  },
+  "alias": {
+    "github": "git@github.com",
+    "gitlab": "git@gitlab.com"
+  }
+}

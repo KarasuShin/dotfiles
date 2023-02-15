@@ -18,3 +18,6 @@ ln -sf "$cwd/ssh/config" ~/.ssh/config
 
 # karabiner
 ln -sf "$cwd/karabiner/karabiner.json" ~/.config/karabiner/karabiner.json
+
+# projj
+ln -sf "$cwd/projj/config.json" ~/.projj/config.json
